@@ -1,8 +1,8 @@
 /* *{
   background-color: royalblue;
 / */ 
-*{
-  background-image: url("background.jpg");
+body{
+  background-image: url("../../background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
