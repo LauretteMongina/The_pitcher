@@ -2,7 +2,7 @@
   background-color: royalblue;
 / */ 
 body{
-  background-image: url("../../background.jpg");
+  background-image: url("/background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
